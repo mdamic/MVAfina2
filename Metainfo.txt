@@ -1,0 +1,12 @@
+Name of Quantlet: MVAfina2
+
+Published in: N/A
+
+Description: Factor analysis of the availability of financial services in non OECD countries depending on the development 
+of the financial market, strenght of the economy and education of the population
+
+Keywords: financial services, economic development, education
+
+Author: Mate Damić, Eva Perica, Petra Škrobot
+
+Submitted:  1.6.2016., 17.41 pm
